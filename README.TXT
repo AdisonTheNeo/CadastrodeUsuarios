@@ -1,5 +1,5 @@
 ====================================
-APLICAÇÃO DE CADASTRO DE USUARIOS
+APLICAÇÃO PARA CADASTRO DE USUARIOS
 ====================================
 
 Projeto feito no NetBeans- IDE
