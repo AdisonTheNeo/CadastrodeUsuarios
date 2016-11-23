@@ -1,13 +1,14 @@
-# Aplicação simples para cadastrar usuários:
-**Vídeo do  projeto rodando:** https://adisontheneo.github.io/CadastrodeUsuarios                                                    
+# Aplicação simples em JAVA, para cadastrar usuários:
+
+**Vídeo do  projeto rodando: https://adisontheneo.github.io/CadastrodeUsuarios**                                                    
 
 
-# Notes:
-**Banco de dados MySql**
+# Notas:
+Banco de dados MySql
 
 
 # Arquivo executável:
- **"MinhaAplicacao.jar"** 
+"MinhaAplicacao.jar"
 
 
 #
