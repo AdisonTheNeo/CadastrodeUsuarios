@@ -1,18 +1,21 @@
-====================================
+==========================================
 APLICAÇÃO BASICA PARA CADASTRO DE USUARIOS
+==========================================
+
+====================================
+Projeto feito no NetBeans- IDE
 ====================================
 
-Projeto feito no NetBeans- IDE
 
 java -jar "MinhaAplicacao.jar" 
-
-
-Notes:
-================
-Com banco de dados 
-MySql
 *Simples
 
+
+========================
+Notes:
+Com banco de dados 
+MySql
+==================
 
 **Adison**
 
