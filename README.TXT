@@ -1,5 +1,5 @@
 ====================================
-APLICAÇÃO PARA CADASTRO DE USUARIOS
+APLICAÇÃO BASICA PARA CADASTRO DE USUARIOS
 ====================================
 
 Projeto feito no NetBeans- IDE
@@ -11,7 +11,7 @@ Notes:
 ================
 Com banco de dados 
 MySql
-
+*Simples
 
 
 **Adison**
