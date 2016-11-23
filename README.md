@@ -3,14 +3,14 @@
 
 
 # Notes:
-** Banco de dados MySql **
-** NetBeans- IDE **
+**Banco de dados MySql**
 
-# Arquivo excecutável:
+
+# Arquivo executável:
  **"MinhaAplicacao.jar"** 
 
 
 
 # Adison
-** "Sem próposito, não existimos" **
+**"Sem próposito, não existimos"**
 (Matrix)
