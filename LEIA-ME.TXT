@@ -11,10 +11,6 @@ MySql
 java -jar "MinhaAplicacao.jar" 
 *Simples
 
-Vídeo do projeto:https://vimeo.com/192772387
-Site:https://adisontheneo.github.io/CadastrodeUsuarios
-Repositório: https://github.com/AdisonTheNeo/CadastrodeUsuarios/edit/master/
-
 
 **Adison**
 "Sem próposito, não existimos"
