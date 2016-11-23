@@ -1,19 +1,17 @@
 # CadastrodeUsuarios
-VÍDEO DO PROJETO RODANDO >>> https://adisontheneo.github.io/CadastrodeUsuarios                                                        
-
-APLICAÇÃO BASICA PARA CADASTRO DE USUARIOS
-
-
-Projeto feito no NetBeans- IDE
-Notes:
-Com banco de dados 
-MySql
+# Aplicação simples para cadastrar usuários:
+**Vídeo do  projeto rodando:** https://adisontheneo.github.io/CadastrodeUsuarios                                                    
 
 
-java -jar "MinhaAplicacao.jar" 
-*Simples
+# Notes:
+** Banco de dados MySql **
+** NetBeans- IDE **
+
+# Arquivo excecutável:
+ **"MinhaAplicacao.jar"** 
 
 
-**Adison**
-"Sem próposito, não existimos"
+
+# Adison
+** "Sem próposito, não existimos" **
 (Matrix)
