@@ -10,8 +10,8 @@
 Banco de dados MySql
 
 
-# Arquivo executável:
-"MinhaAplicacao.jar"
+# Baixe e execute:
+"CadastrodeUsuarios.jar"
 
 
 #
